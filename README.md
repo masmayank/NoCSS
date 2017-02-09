@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to NoCSS Pages
 
 You can use the [editor on GitHub](https://github.com/masmayank/NoCSS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### NoCSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NoCSS is a lightweight and easy-to-use syntax for create your custom style. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Create style on run time.
+## No need to create multipurpose uses of style into your style sheet.
+### Put class name in your code and it will compile automatically and apply it on same element.
 
 - Bulleted
 - List
