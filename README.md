@@ -8,25 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 NoCSS is a lightweight and easy-to-use syntax for create your custom style. It includes conventions for
 
+### What Includes
 ```markdown
-Syntax highlighted code block
-
-# Create style on run time.
-## No need to create multipurpose uses of style into your style sheet.
-### Put class name in your code and it will compile automatically and apply it on same element.
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+NoCSS/
+├──  index.htm
+├──  noCss.js
+├──  jquery-1.11.3.min.js
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
